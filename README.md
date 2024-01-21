@@ -13,12 +13,6 @@ Dyno Technological Enterprise specializes in comprehensive mobile phone services
 ## Location
 Situated strategically in Benin City, our enterprise contributes to local industry development. 
 
-## Getting Started
-Learn how to install and set up our services locally. [Installation Guide](link-to-installation-guide) 
-
-## Usage
-Explore examples and scenarios to make the most of our offerings. [Usage Guide](link-to-usage-guide) 
-
 ## Contributing
 We welcome contributions! Follow our guidelines to get started. [Contribution Guidelines](link-to-contribution-guide)[https://docs.google.com/document/d/1hW-DVpfrX9XlrcvnriZQbk2rcs1VLsis_AlUawBwS1Q/edit?usp=drivesdk] [https://docs.google.com/document/d/1VAkSvOOQXJeltJmx8CvwcEjxVzpylm0A_QmETsZwhFQ/edit?usp=drivesdk]
 
